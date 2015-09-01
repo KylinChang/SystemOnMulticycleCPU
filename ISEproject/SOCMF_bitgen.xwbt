@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Xilinx\ORG_font_graph6\SOCMF.ncd
+OUTFILE=C:\Xilinx\ORG_font_graph6\SOCMF.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Xilinx\ORG_font_graph6
+LICENSE=WebPack
+USER_INFO=210957650_0_0_310
